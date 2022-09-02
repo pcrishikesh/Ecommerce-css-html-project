@@ -22,7 +22,7 @@ li {
     text-align: center;
     padding: .5em;
     font-size: 1.5em;
-
+    transition: 1s;
 }
 
 li:hover {
@@ -75,6 +75,8 @@ button {
     padding: .8em;
     border-radius: 1em;
     height: 50%;
+    transition: 1s;
+
 }
 
 h1 {
@@ -84,7 +86,8 @@ h1 {
 }
 
 button:hover {
-    background-color: rgb(193, 190, 190);
+    color: white; 
+    background-color: rgb(62, 62, 62); 
 }
 
 
